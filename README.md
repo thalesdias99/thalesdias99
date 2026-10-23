@@ -17,4 +17,4 @@
 
 Python · Flask · Git · GitHub Actions · Linux · HTML · CSS
 
-📫 [LinkedIn](https://www.linkedin.com/in/thales-freitas-64527924a)
+📫 [LinkedIn](https://www.linkedin.com/in/thalesfreitas-dev)
