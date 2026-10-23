@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Thales 👋
 
-<!--
-**thalesdias99/thalesdias99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Computer Science student at **UniCEUB** (Brazil) · 4th semester
+- 💻 Focused on **back-end development with Python**
+- 🔐 Interested in **application security**
+- 🌱 Currently learning **TypeScript (NestJS + Next.js)** by building a password manager
+- 🌍 Open to software development internships, preferably remote
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured projects**
+
+- [CEP Lookup API](https://github.com/thalesdias99/projeto-api): REST API with Flask, tests and CI
+- [FinTrack CLI](https://github.com/thalesdias99/fintrack-cli): command-line expense tracker with unit tests
+
+**Tech**
+
+Python · Flask · Git · GitHub Actions · Linux · HTML · CSS
+
+📫 [LinkedIn](https://www.linkedin.com/in/thales-freitas-64527924a)
